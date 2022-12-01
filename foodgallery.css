@@ -1,0 +1,104 @@
+.parent{
+    height:300px;
+    font-size:x-large;
+    text-align:center;
+   
+
+}
+.col{
+    height: 300px;
+    width:700px;
+    /* border:2px black solid; */
+    position:absolute;
+    border-radius:50px
+    
+    
+    
+}
+.col-1{
+    background-color:rgb(255, 145, 0);
+    left:30px;
+    top:200px;
+
+}
+.col-2{
+    background-color:pink;
+    top:105px;
+    left:1050px;
+
+}
+.col-3{
+    background-color:rgb(255, 145, 0);
+    left:1000px;
+    top:600px;
+}
+.col-4{
+    background-color:pink;
+    left:30px;
+    top:600px;
+
+}
+.col-5{
+    
+   left:750px;
+   top:400px;
+  
+    
+}
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+}
+img{
+    height:200px;
+    width:250px;
+    position:absolute;
+    /* left:45px; */
+    border-radius:80px
+}
+body{
+    background-image:url("./image/foodcombo3.jpeg");
+    background-size: cover;
+}
+pre{
+    font-size:medium;
+    font-family:'Times New Roman', Times, serif;
+    position:absolute;
+    color:rgb(60, 6, 6);
+    left:130px;
+}
+
+button{
+    height:30px;
+    width:100px;
+    background-color:rgb(21, 21, 20);
+    border-radius:15px;
+    color:rgb(201, 149, 149);
+}
+button:hover{
+    color:rgb(11, 10, 12);
+    background-color:white;
+}
+#b{
+    position:absolute;
+    top:220px;
+    left:500px;
+ }   
+
+ #t{
+    position:absolute;
+    top:220px;
+    left:500px;
+ }   
+ #u{
+    position:absolute;
+    top:220px;
+    left:500px;
+ }   
+ 
+ #o{
+    position:absolute;
+    top:220px;
+    left:500px;
+ }   
+

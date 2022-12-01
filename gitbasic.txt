@@ -1,0 +1,23 @@
+git and github------->(project strore cheyyanum,github  use cheyth nammuda project bakki allarkum share cheyyan pattum.,github upload cheyyunna project ark vnm nkilum acces cheyyan pattum.ath public ahnenkil(instagram pole
+same projec))
+--------------
+vcm--->version control system
+
+
+git operations:
+    1.push(updates,new upload)-->local repository to remote repo-project and new updations kodukkan.
+    2.clone(exact copy)---->remote repo to local repo exact copy of project
+    3.pull (new upload copy)--->remote repo to local repo- new changes kodukkan
+
+
+
+push operation:
+--------------
+    local storage
+    -git add-------->local storage to staging area.
+    -git commit---->staging area to local repository
+    remote rep
+
+pull,clone operations:
+----------------------
+    local storage to remote repository
